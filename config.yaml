@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      name: Admin User
+      password: $2b$12$RmvazjW0UjVMuaMvpFnGGe5K9m8GSVF4vy.VIW9No9tNjNogyiOTK
+    editor:
+      name: Editor
+      password: $2b$12$1tMxbKg2zezSrf3h1qnCceweM3ioc2MIgOoV3b9S9qhvcUsEWHd0i
+cookie:
+  name: agentic_auth_cookie
+  key: supersecretkey
+  expiry_days: 1
+preauthorized:
+  emails: []
